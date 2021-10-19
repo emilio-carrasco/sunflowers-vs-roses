@@ -5,6 +5,11 @@ Por suerte, ha podido encontrar muchas imágenes de flores en internet, pero no 
 
 Puedes encontrar las imágenes en la carpeta 'imgs'
 
+![](https://raw.githubusercontent.com/emilio-carrasco/sunflowers-vs-roses/master/imgs/imagen1015.jpg)
+![](https://raw.githubusercontent.com/emilio-carrasco/sunflowers-vs-roses/master/imgs/imagen1017.jpg)
+![](https://raw.githubusercontent.com/emilio-carrasco/sunflowers-vs-roses/master/imgs/imagen1022.jpg)
+![](https://raw.githubusercontent.com/emilio-carrasco/sunflowers-vs-roses/master/imgs/imagen1020.jpg)
+
 Sabe que la tarea de etiquetado es muy tediosa, y quiere tomar algún atajo. A simple vista la tarea parece sencilla, es decir, los girasoles son casi siempre amarillos, y en las rosas hay más variedad, pero un gran porcentaje de ellas tiene colores muy diferentes de los girasoles.
 Se le ocurre una idea brillante: no todos los algoritmos de machine learning necesitan datos etiquetados, también hay aprendizaje no supervisado. Se puede usar un algoritmo de clusterización, que no necesita ninguna etiqueta, y ver si puede asociar cada cluster a una clase distinta. 
 
